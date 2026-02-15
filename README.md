@@ -6,7 +6,7 @@ I design, build, and ship scalable, production-ready web applications.
 ### I focus on:
 - React, Angular, TypeScript, JavaScript
 - Django, Python, REST APIs
-- Git, PostgreSQL
+- Git, PostgreSQL, Cursor, Claude Code
 
 ### Let's connect:
 - LinkedIn: https://www.linkedin.com/in/gabrielebello
